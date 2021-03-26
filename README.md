@@ -16,7 +16,7 @@ This module enables :
 
 # Installation
 
--Put the library custom-password-recovery.jar in the lib directory of eXo platform
+-Put the library custom-password-recovery-1.0-SNAPSHOT.jar in the lib directory of eXo platform
 
 # Prerequisites
 

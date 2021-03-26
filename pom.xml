@@ -6,7 +6,7 @@
 
     <groupId>org.exoplatform.services</groupId>
     <artifactId>custom-password-recovery</artifactId>
-    <version>1.0-6SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version>
     <build>
         <plugins>
             <plugin>

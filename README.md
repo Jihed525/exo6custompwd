@@ -1,4 +1,4 @@
-# Sample : eXo Platform Password Recovery Service Customization
+# Sample : eXo Platform 6.1 Password Recovery Service Customization
 
 This module enables :
 - Customize Password recovery service
